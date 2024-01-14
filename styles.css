@@ -154,19 +154,19 @@ span {
 
 .post h2 {
     margin-bottom: 5px; /* Adjust the margin as needed */
-    color: #267916;
+    color: #55a77e;
     font-size: 1.5rem;
 }
 
 .post h3 {
-    color: #80a393;
+    color: #7faf9a;
     padding-bottom: 6px;
     padding-top: 10px;
     font-size: 1.3rem;
 }
 
 .post h4 {
-    color: #679471;
+    color: #7cb69e;
     padding-bottom: 3px;
     padding-top: 6px;
     font-size: 1.1rem;
