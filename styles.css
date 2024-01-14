@@ -59,9 +59,8 @@ a {
 }
 
 a.header {
-    color: #ddab22;
+    color: #ddab22 !important;
 }
-
 
 .post header {
     text-align: center;
@@ -118,6 +117,3 @@ a.header {
     color: #3E92CC; /* Change the color to your preference */
 }
 
-.post a.header {
-    color: #ddab22;
-}
