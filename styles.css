@@ -7,9 +7,6 @@
 
 /* styles.css */
 
-
-
-
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
@@ -20,6 +17,9 @@ header {
     text-align: center;
     padding: 20px;
     color: #ddab22;
+    border-bottom: 1px solid rgba(53, 48, 48, 0.575);
+    padding-bottom: 5px;
+    margin-bottom: 40px;
 }
 
 main {
@@ -62,12 +62,6 @@ a.header {
     color: #ddab22 !important;
 }
 
-.post header {
-    text-align: center;
-    padding: 20px;
-    color: #ddab22;
-}
-
 .post main {
     max-width: 800px;
     margin: 20px auto; /* Center the main box horizontally with top and bottom margin */
@@ -81,9 +75,11 @@ a.header {
     font-size: 1.1 rem;
 }
 
-.post p {
+.post main p {
     line-height: 1.6;
-    color: #555;
+    text-align: justify;
+    color: #c5b7b7;
+    font-size: 1.1 rem;
 }
 
 .post footer {
@@ -97,7 +93,7 @@ a.header {
 
 .post h2 {
     margin-bottom: 5px; /* Adjust the margin as needed */
-    color: #0c8191;
+    color: #71962d;
 }
 
 .post h3 {
