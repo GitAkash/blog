@@ -100,11 +100,6 @@ h2 {
     color: #C8AD55;
 }
 
-p.published-date {
-    margin-top: 5px; /* Adjust the margin as needed */
-    color: #888; /* Optional: Adjust the color */
-}
-
 a {
     text-decoration: none; /* Remove underlining */
     color: #3E92CC; /* Change the color to your preference */
@@ -112,7 +107,7 @@ a {
 
 }
 
-a.header {
+.header {
     color: #ddab22 !important;
     font-size: 2rem;
 }
@@ -124,21 +119,6 @@ span {
     margin-bottom: 10px;
     display: block;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -155,6 +135,12 @@ span {
     text-align: justify;
     color: #c5b7b7;
     font-size: 0.8rem;
+    margin-bottom: 10px;
+}
+
+.post main p a{
+    color: #6e8fa7;
+    font-size: 0.8rem;
 }
 
 .post footer {
@@ -168,13 +154,22 @@ span {
 
 .post h2 {
     margin-bottom: 5px; /* Adjust the margin as needed */
-    color: #71962d;
+    color: #267916;
     font-size: 1.5rem;
 }
 
 .post h3 {
-    margin-bottom: 5px; /* Adjust the margin as needed */
-    color: #3f8a80;
+    color: #80a393;
+    padding-bottom: 6px;
+    padding-top: 10px;
+    font-size: 1.2rem;
+}
+
+.post h4 {
+    color: #679471;
+    padding-bottom: 3px;
+    padding-top: 6px;
+    font-size: 0.9rem;
 }
 
 
