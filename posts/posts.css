@@ -15,7 +15,7 @@ body {
 header {
     text-align: center;
     padding: 20px;
-    color: #C8AD55;
+    color: #ddab22;
 }
 
 main {
@@ -23,6 +23,12 @@ main {
     margin: 20px auto; /* Center the main box horizontally with top and bottom margin */
     text-align: left;
     padding: 0 20px;
+}
+
+p.story {
+    line-height: 1.6;
+    color: #c5b7b7;
+    font-size: 1.1 rem;
 }
 
 p {
@@ -41,12 +47,19 @@ article {
 
 h2 {
     margin-bottom: 5px; /* Adjust the margin as needed */
-    color: #8f8152;
+    color: #0c8191;
+}
+
+
+h3 {
+    margin-bottom: 5px; /* Adjust the margin as needed */
+    color: #3f8a80;
 }
 
 p.published-date {
     margin-top: 5px; /* Adjust the margin as needed */
     color: #888; /* Optional: Adjust the color */
+    font-size: 0.8rem;
 }
 
 a {
