@@ -1,0 +1,56 @@
+/*
+ * @Author: Akash Mondal <>
+ * @Date: 2024-01-14 18:46:05
+ * @Last Modified by: GitAkash <>
+ * @Last Modified time: 2024-01-14 19:19:39
+ */
+
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #232020;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    color: #C8AD55;
+}
+
+main {
+    max-width: 350px;
+    margin: 800px auto; /* Center the main box horizontally with top and bottom margin */
+    text-align: left;
+    padding: 0 20px;
+}
+
+p {
+    line-height: 1.6;
+    color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+article {
+    margin-bottom: 20px; /* Adjust the margin as needed */
+}
+
+h2 {
+    margin-bottom: 5px; /* Adjust the margin as needed */
+    color: #C8AD55;
+}
+
+p.published-date {
+    margin-top: 5px; /* Adjust the margin as needed */
+    color: #888; /* Optional: Adjust the color */
+}
+
+a {
+    text-decoration: none; /* Remove underlining */
+    color: #3E92CC; /* Change the color to your preference */
+}
+
