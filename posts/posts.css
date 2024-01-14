@@ -2,7 +2,7 @@
  * @Author: Akash Mondal <>
  * @Date: 2024-01-14 18:46:05
  * @Last Modified by: GitAkash <>
- * @Last Modified time: 2024-01-14 19:19:39
+ * @Last Modified time: 2024-01-14 19:25:56
  */
 
 /* styles.css */
@@ -19,8 +19,8 @@ header {
 }
 
 main {
-    max-width: 350px;
-    margin: 800px auto; /* Center the main box horizontally with top and bottom margin */
+    max-width: 800px;
+    margin: 20px auto; /* Center the main box horizontally with top and bottom margin */
     text-align: left;
     padding: 0 20px;
 }
